@@ -21,14 +21,14 @@ td{
 body{
    background-color:white;
 }
-td.by{
+.by{
 
     padding: 10px 365px;
     padding-left: 10px;
     width: 350px;
     height: 130px;
 }
-img.hi{
+.hi{
     position: absolute;
     top:0px;
     display:inline-block;
@@ -37,12 +37,12 @@ img.hi{
 form{
     display:inline-block;
 }
-p.h{
+.h{
    font-size: 100px;
    font-family: 'Exo', sans-serif;
    text-align: right;
 }
-table.imag{
+.imag{
     background-color:rgb(253, 251, 249);
     box-shadow: 0 0 10px 0px black;
     position: absolute;
@@ -51,7 +51,7 @@ table.imag{
    
 
 }
-p.k{
+.k{
     font-family: 'Dosis', sans-serif;
     text-align: left;
     font-size: 30px;
@@ -59,26 +59,26 @@ p.k{
 
 }
 
- td.l{
+ .l{
     box-shadow: 0 0 10px 0px grey; 
     padding: 0px 30px;
     background-color:burlywood;
    
  }
- td.j{
+ .j{
     box-shadow: 0 0 10px 0px grey; 
     padding: 0px 20px;
 
     background-color: lightgrey;
  }
- td.j:hover{
+ .j:hover{
      background-color: aquamarine;
  }   
- td.l:hover{
+ .l:hover{
     background-color:aquamarine;
 }
 
- table.go{
+ .go{
     background-color:burlywood;
     box-shadow: 0 0 10px 0px black;
     position: absolute;
@@ -86,11 +86,11 @@ p.k{
     width:99%;
 
 }
-td.a{
+.a{
     box-shadow: 0 0 10px 0px grey; 
 
 }
-div.lk{
+.lk{
     background-image: url("Web\ Banner\ Mobile.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -100,31 +100,31 @@ div.lk{
     height: 90%;
     text-align: center;
 }
-p.contact{
+.contact{
     font-size: 30px;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
  text-align: center;
  display: inline-block;
 }
-p.q{
+.q{
     font-size: 39px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     display: inline-block;
 
 }
-p.ha{
+.ha{
     font-size: 100px;
     font-family: 'Exo', sans-serif;
     text-align: center;
 }
-table.work{
+.work{
     position:absolute;
     top: 800px;
     left:50px;
 
 }
-div.w{
+.w{
     background-color: antiquewhite;
 box-shadow: 0 0 10px 0 black;
     background-size: 100%;
@@ -134,7 +134,7 @@ box-shadow: 0 0 10px 0 black;
     height: 30%;
     text-align: center;
 }
-td.zxc:hover{
+.zxc:hover{
     background-color: aquamarine;
 }
 input[type=submit]{
