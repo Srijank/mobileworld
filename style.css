@@ -1,0 +1,163 @@
+.image{
+    box-shadow: 0 0 10px 0px black;
+    display: inline-block;
+position: absolute;
+top:0px;
+left:5px;
+background-color: antiquewhite;
+ 
+    display: table;
+    height: 30px;
+
+}
+*{
+    max-width: 100%;
+}
+td{
+    padding: 10px 20px;
+    
+
+}
+body{
+   background-color:white;
+}
+.by{
+
+    padding: 10px 345px;
+    padding-left: 10px;
+    width: 350px;
+    height: 130px;
+}
+.hi{
+    position: absolute;
+    top:0px;
+    display:inline-block;
+    
+}
+form{
+    display:inline-block;
+}
+.h{
+   font-size: 100px;
+   font-family: 'Exo', sans-serif;
+   text-align: right;
+}
+.imag{
+    background-color:rgb(253, 251, 249);
+    box-shadow: 0 0 10px 0px black;
+    position: absolute;
+    top:180px;
+    width:99%;
+   
+
+}
+.k{
+    font-family: 'Dosis', sans-serif;
+    text-align: left;
+    font-size: 30px;
+    color: crimson;
+
+}
+
+ .l{
+    box-shadow: 0 0 10px 0px grey; 
+    padding: 0px 30px;
+    background-color:burlywood;
+   
+ }
+ .j{
+    box-shadow: 0 0 10px 0px grey; 
+    padding: 0px 20px;
+
+    background-color: lightgrey;
+ }
+ .j:hover{
+     background-color: aquamarine;
+ }   
+ .l:hover{
+    background-color:aquamarine;
+}
+
+ .go{
+    background-color:burlywood;
+    box-shadow: 0 0 10px 0px black;
+    position: absolute;
+    top:680px;
+    width:99%;
+
+}
+.a{
+    box-shadow: 0 0 10px 0px grey; 
+
+}
+.lk{
+    background-image: url("Web\ Banner\ Mobile.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    top: 1160px;
+    width: 99%;
+    height: 100%;
+    text-align: center;
+}
+.contact{
+    font-size: 30px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+ display: inline-block;
+}
+.q{
+    font-size: 39px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: inline-block;
+
+}
+.ha{
+    font-size: 100px;
+    font-family: 'Exo', sans-serif;
+    text-align: center;
+}
+.work{
+    position:absolute;
+    top: 860px;
+    left:50px;
+
+}
+.w{
+    background-color: antiquewhite;
+box-shadow: 0 0 10px 0 black;
+    background-size: 100%;
+    position: absolute;
+    top: 1280px;
+    width: 99%;
+    height: 30%;
+    text-align: center;
+}
+.zxc:hover{
+    background-color: aquamarine;
+}
+input[type=submit]{
+    color:brown;
+    width: 40%;
+    font-size: 20px;
+    
+}
+input[type=submit]:hover{
+    background-color: aquamarine;
+}
+.e{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+form{
+    padding-bottom: 20px;
+}
+
+
+    
+
+
+    
